@@ -1,0 +1,3 @@
+/Users/yang/CLionProjects/32proj1/cmake-build-debug/CMakeFiles/32proj1.dir
+/Users/yang/CLionProjects/32proj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yang/CLionProjects/32proj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
